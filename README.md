@@ -10,3 +10,4 @@ Now you can do the following things:
 # barebones-sanity-studio
 # barebones-sanity-studio
 # barebones-sanity-studio
+# barebones-sanity-studio
